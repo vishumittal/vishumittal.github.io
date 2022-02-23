@@ -3,10 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "8e56ba784ba977535a642b72ba332584",
+  "assets/AssetManifest.json": "29b562d6d268d708b24876078d0726aa",
 "assets/assets/avatar.jpg": "089380d4fa5d17996d98f4dd32227928",
+"assets/assets/b8-ball-flutter-gif.gif": "7bfe3a135c8407c7676ba575a564f630",
 "assets/assets/blog.png": "1269539dc4954cd7f8a8f75b2de5ac8c",
+"assets/assets/bmi-calc-demo.gif": "40e470e418799fffa5551768c583edbf",
 "assets/assets/computervisionn.jpg": "e84692154bd077a65b0b951d595231c8",
+"assets/assets/destini.gif": "ec76379aa0b98b5ff22b0f264ebfd962",
 "assets/assets/FontManifest.json": "4b859210b1cb7cc0af63babc29eac841",
 "assets/assets/github.png": "d22ee3727a7216019c3848df6eafa024",
 "assets/assets/gitlab.png": "d8dd9f3a3a1275356f9e1428b144e99f",
@@ -14,6 +17,7 @@ const RESOURCES = {
 "assets/assets/instagram.png": "26631a4043b14dff84180bdf51c3cacb",
 "assets/assets/linkedin.png": "926e2dcf5ab4220a359867614556df68",
 "assets/assets/moon.png": "a270b8a10d1a9a52441bf5a322dd1b86",
+"assets/assets/quizzler-demo.gif": "a1c07aad706e65ef3ba2e51cb7539dc1",
 "assets/assets/twitter.png": "8f35a40403a84631c4125c4f1859c7a6",
 "assets/assets/wordpress.jpg": "4c5c0daf4e65ed3c6b4aace9fbc7ffbb",
 "assets/assets/works/arpaint.png": "fa407caa93144c0e79cbb11ca17315d4",
@@ -48,7 +52,7 @@ const RESOURCES = {
 "assets/NOTICES": "bb4b2cb6a495f358812647cb95f44b5f",
 "index.html": "a5a87f4a71d22b7bdc2f3f2f436087f2",
 "/": "a5a87f4a71d22b7bdc2f3f2f436087f2",
-"main.dart.js": "93b18b5af04d1c9ba80427bf849bf9e1",
+"main.dart.js": "1ab9a6c90cd330c2bf36f6ee25b3b038",
 "version.json": "b6474d93f209eda683cbb3c4e65f581b"
 };
 
